@@ -17,6 +17,5 @@ int main()
   std::cin >> myNum;
 
   std::cout << "Your number doubled is " << doubledNumber(myNum) << "\n"; 
-  
   return 0;
 }
